@@ -1,5 +1,7 @@
 ## Hi there 👋
--I'm freshman computer engineer in Bilkent University
+-he/him
+-Hobbies:going gym, playing online video games, cooking
+-Freshman computer engineer in Bilkent University
 
 <!--
 **msaidk1/msaidk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
